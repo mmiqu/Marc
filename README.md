@@ -23,4 +23,9 @@ Marc Miquel
 
 2021 - 2022 - Técnico en Sistemas Informáticos
 
-2022 - actualidad - Responsable Departamento de Sistemas
+2022 - Actualidad - Responsable Departamento de Sistemas
+
+<p>
+    <img src="https://www.denia.com/wp-content/uploads/2019/11/persona-utilizando-un-ordenador-portatil.jpg" alt="Persona utilizando un ordenador portátil" width="200" />
+</p>
+
